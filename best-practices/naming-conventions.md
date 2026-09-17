@@ -1,5 +1,7 @@
 # Naming Conventions
 
+##### Effective 2026-09-16
+
 Best practices for naming files and folders.
 
 ## Folders

@@ -4,6 +4,7 @@
 
 A daily log should be kept in a physical notebook using the following format:
 YYYY-MM-DD
+Total hours worked
 Goal
 Accomplishments
 Measurements

@@ -4,6 +4,7 @@
 
 A weekly log should be kept. It should be polished and ready to be published and use the following format:
 YYYY-MM-DD
+Total hours worked
 Accomplishments
 Key Findings
 Problems

@@ -28,3 +28,6 @@ The device should measure distance between the feet.
 
 ## Flight time
 
+## Research question
+
+An applicable research question should be able to be answered using the data gathered from this device. A RefWorks project has been created in order to facilitate the organization of reading research papers to determine a good question and hypothesis. 
